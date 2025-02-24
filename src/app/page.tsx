@@ -44,7 +44,9 @@ export default function Home() {
           </Button>
         </div>
       </div>
+
       {/* Blinking Icon */}
+      
       <BlinkingIcon
         className="absolute top-[8%] left-[35%]"
         icons={heroIconSetOne}
