@@ -23,7 +23,7 @@ To run this project, please do the instruction for both frontend and backend
 
 ```bash
 # clone repository
-git clone [https://github.com/peeratchaikleebbua/darapro_demo.git](https://github.com/peeratchaikleebbua/datapro-demo.git)
+git clone https://github.com/peeratchaikleebbua/datapro-demo.git
 cd your-repo
 ```
 
